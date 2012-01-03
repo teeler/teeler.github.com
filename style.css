@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 64px;
+}
+
+h2 {
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 36px;
+}
+
+body {
+  background: black url(893.png) repeat;
+}
+
+#m {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  color: #FFD;
+  padding-top: 30px;
+}
